@@ -1,0 +1,4 @@
+/home/man/Documents/sample_codes/build/CMakeFiles/separate.dir
+/home/man/Documents/sample_codes/build/CMakeFiles/nd_range.dir
+/home/man/Documents/sample_codes/build/CMakeFiles/edit_cache.dir
+/home/man/Documents/sample_codes/build/CMakeFiles/rebuild_cache.dir

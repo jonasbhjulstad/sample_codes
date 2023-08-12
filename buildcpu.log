@@ -1,0 +1,14 @@
+name:	AMD Ryzen 7 1700X Eight-Core Processor         
+type:	2
+vendor:	Intel(R) Corporation
+version:	3.0
+max_compute_units:	16
+max_work_group_size:	8192
+max_clock_frequency:	0
+global_mem_size:	25119424512
+local_mem_size:	32768
+max_mem_alloc_size:	12559712256
+global_mem_cache_size:	524288
+max_work_item_sizes_1D:	8192
+max_work_item_sizes_2D:	81928192
+max_work_item_sizes_3D:	819281928192

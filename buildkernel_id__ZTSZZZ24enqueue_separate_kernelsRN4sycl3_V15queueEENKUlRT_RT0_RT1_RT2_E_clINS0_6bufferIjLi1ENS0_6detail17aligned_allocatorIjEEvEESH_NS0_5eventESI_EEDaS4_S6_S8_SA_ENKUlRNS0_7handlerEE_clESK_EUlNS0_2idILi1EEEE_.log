@@ -1,0 +1,7 @@
+Kernel_id:	_ZTSZZZ24enqueue_separate_kernelsRN4sycl3_V15queueEENKUlRT_RT0_RT1_RT2_E_clINS0_6bufferIjLi1ENS0_6detail17aligned_allocatorIjEEvEESH_NS0_5eventESI_EEDaS4_S6_S8_SA_ENKUlRNS0_7handlerEE_clESK_EUlNS0_2idILi1EEEE_
+preferred_work_group_size_multiple:	 32
+private_mem_size:	 0
+max_num_sub_groups:	 32
+compile_num_sub_groups:	 0
+max_sub_group_size:	 32
+compile_sub_group_size:	 0

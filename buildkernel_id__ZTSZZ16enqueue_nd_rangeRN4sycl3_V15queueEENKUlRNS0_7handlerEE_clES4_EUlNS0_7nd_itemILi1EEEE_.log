@@ -1,0 +1,7 @@
+Kernel_id:	_ZTSZZ16enqueue_nd_rangeRN4sycl3_V15queueEENKUlRNS0_7handlerEE_clES4_EUlNS0_7nd_itemILi1EEEE_
+preferred_work_group_size_multiple:	 32
+private_mem_size:	 0
+max_num_sub_groups:	 32
+compile_num_sub_groups:	 0
+max_sub_group_size:	 32
+compile_sub_group_size:	 0
